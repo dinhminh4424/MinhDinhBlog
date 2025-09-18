@@ -1,2 +1,0 @@
-"# MinhDinhBlog" 
-"Personal blog repository" 
