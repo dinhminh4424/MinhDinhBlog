@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://dinhminh4424.github.io/MinhDinhBlog/1.html",
+            "url": "https://dinhminh4424.github.io/MinhDinhBlog/1.html",
+            "title": "1",
+            "author": {
+                "name": "Đinh Công Minh"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-19T12:41:37+07:00",
+            "date_modified": "2025-09-19T12:41:37+07:00"
+        },
+        {
             "id": "https://dinhminh4424.github.io/MinhDinhBlog/bien.html",
             "url": "https://dinhminh4424.github.io/MinhDinhBlog/bien.html",
             "title": "Biến",

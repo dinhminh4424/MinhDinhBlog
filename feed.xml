@@ -3,12 +3,24 @@
     <title>DinhCongMinh</title>
     <link href="https://dinhminh4424.github.io/MinhDinhBlog/feed.xml" rel="self" />
     <link href="https://dinhminh4424.github.io/MinhDinhBlog" />
-    <updated>2025-09-19T12:00:09+07:00</updated>
+    <updated>2025-09-19T12:41:37+07:00</updated>
     <author>
         <name>Đinh Công Minh</name>
     </author>
     <id>https://dinhminh4424.github.io/MinhDinhBlog</id>
 
+    <entry>
+        <title>1</title>
+        <author>
+            <name>Đinh Công Minh</name>
+        </author>
+        <link href="https://dinhminh4424.github.io/MinhDinhBlog/1.html"/>
+        <id>https://dinhminh4424.github.io/MinhDinhBlog/1.html</id>
+
+        <updated>2025-09-19T12:41:37+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Biến</title>
         <author>
