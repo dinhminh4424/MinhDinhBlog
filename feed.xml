@@ -3,7 +3,7 @@
     <title>DinhCongMinh</title>
     <link href="https://dinhminh4424.github.io/MinhDinhBlog/feed.xml" rel="self" />
     <link href="https://dinhminh4424.github.io/MinhDinhBlog" />
-    <updated>2025-09-19T02:18:45+07:00</updated>
+    <updated>2025-09-19T12:00:09+07:00</updated>
     <author>
         <name>Đinh Công Minh</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://dinhminh4424.github.io/MinhDinhBlog/bien.html"/>
         <id>https://dinhminh4424.github.io/MinhDinhBlog/bien.html</id>
+        <media:content url="https://dinhminh4424.github.io/MinhDinhBlog/media/posts/1/i_bien.png" medium="image" />
 
         <updated>2025-09-19T01:22:09+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://dinhminh4424.github.io/MinhDinhBlog/media/posts/1/i_bien.png" alt="" />
                      Biến (variable) là nơi lưu trữ dữ liệu trong bộ nhớ để có thể sử dụng lại sau này. Vd: như hộp chứa giá trị số, chữ, mảng, đối tượng,… "use strict"; height = 180; // -&gt; Uncaught ReferenceError: height is not defined console.log(height); =&gt; giúp&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://dinhminh4424.github.io/MinhDinhBlog/media/posts/1/i_bien.png" class="type:primaryImage" alt="" /></p>
                 <p><strong> </strong><strong>Biến (variable)</strong> là nơi lưu trữ dữ liệu trong bộ nhớ để có thể sử dụng lại sau này.</p>
 <p>Vd: như hộp chứa giá trị số, chữ, mảng, đối tượng,…</p>
 <ul>
